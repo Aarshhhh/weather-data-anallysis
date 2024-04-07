@@ -1,4 +1,4 @@
-# weather-data-anallysis
+# weather-data-analysis
 Weather Data Analysis Instructions and Requirements
 
 1. Requirements:
